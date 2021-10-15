@@ -1,7 +1,7 @@
 {
-  "short_name": "Dumb Duck Campsite",
-  "name": "Dumb Duck Campsite",
-  "description": "A playground for 10,000 ducks on the Ethereum blockchain",
+  "short_name": "Penguin Evolution",
+  "name": "Penguin Evolution",
+  "description": "A collection of the largest waddle of penguins in the south pole",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,7 +20,7 @@
     }
   ],
   "start_url": ".",
-  "homepage_url": "https://www.dumbduck.xyz",
+  "homepage_url": "https://cryptoleek-team.github.io/penguin-website-publish/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
